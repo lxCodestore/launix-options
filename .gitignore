@@ -1,0 +1,8 @@
+/target/classes/org/ml/options/Constraint.class
+/target/classes/org/ml/options/HelpPrinter.class
+/target/classes/org/ml/options/*.class
+/target/classes/org/ml/options/DefaultHelpPrinter.class
+*.lst
+*.jar
+pom.properties
+/.idea
