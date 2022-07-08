@@ -1,6 +1,6 @@
-/target/classes/org/ml/options/*.class
+/target/*
 *.lst
 *.jar
-pom.properties
+
 
 
