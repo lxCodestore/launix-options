@@ -1,4 +1,3 @@
 /target/classes/org/ml/options/*.class
 *.lst
 *.jar
-pom.properties
