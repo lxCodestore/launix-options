@@ -8,6 +8,11 @@
     </remote-repository>
     <remote-repository>
       <option name="id" value="central" />
+      <option name="name" value="Central Repository" />
+      <option name="url" value="https://nexus.wktaa.de/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="central" />
       <option name="name" value="Maven Central repository" />
       <option name="url" value="https://repo1.maven.org/maven2" />
     </remote-repository>
@@ -15,6 +20,21 @@
       <option name="id" value="jboss.community" />
       <option name="name" value="JBoss Community repository" />
       <option name="url" value="https://repository.jboss.org/nexus/content/repositories/public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wkss-maven-releases" />
+      <option name="name" value="wkss-maven-releases" />
+      <option name="url" value="https://nexus.wktaa.de/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="maven-external-group" />
+      <option name="name" value="maven-external-group" />
+      <option name="url" value="https://nexus.wktaa.de/repository/maven-public/" />
+    </remote-repository>
+    <remote-repository>
+      <option name="id" value="wkss-maven-snapshots" />
+      <option name="name" value="wkss-maven-snapshots" />
+      <option name="url" value="https://nexus.wktaa.de/repository/maven-public/" />
     </remote-repository>
   </component>
 </project>
